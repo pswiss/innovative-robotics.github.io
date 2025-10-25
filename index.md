@@ -67,6 +67,14 @@ The core of the lab includes (left to right) our Postdoc Myungjin Jung, Ph.D. st
 
 {% include section.html %}
 
+# Media and press announcements regarding work in this lab
+
+NJIT Press Release: [NJIT, with $5M from the NSF, Will Develop Robotic System to Speed Disaster Recovery](https://news.njit.edu/njit-5m-nsf-will-develop-robotic-system-speed-disaster-recovery)
+
+NSF Press Release: ["NSF invests nearly $10M to develop transformative bio-inspired solutions" ](https://new.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-invests-develop-transformative-bio-inspired-solutions)
+
+
+
 # Examples of what we work on
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1dp0QNc9C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -120,8 +128,4 @@ The lab has access to state-of-the-art manufacturing equipment thanks to the exp
 %}
 
 
-
-# Media and press announcements regarding work in this lab
-
-NSF Press Release: ["NSF invests nearly $10M to develop transformative bio-inspired solutions" ](https://new.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-invests-develop-transformative-bio-inspired-solutions)
 
