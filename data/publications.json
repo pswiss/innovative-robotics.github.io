@@ -1,0 +1,38 @@
+{
+  "updated": "seed from previous lab site",
+  "source": "Initial list copied from the old lab website; replaced automatically by the Google Scholar update.",
+  "publications": [
+    {
+      "title": "FireAntV3: A Modular Self-Reconfigurable Robot Toward Free-Form Self-Assembly Using Attach-Anywhere Continuous Docks",
+      "authors": "Petras Swissler, Michael Rubenstein",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": "2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10168247",
+      "citations": 0
+    },
+    {
+      "title": "ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures",
+      "authors": "Petras Swissler, Michael Rubenstein",
+      "venue": "Distributed Autonomous Robotic Systems",
+      "year": "2022",
+      "url": "https://doi.org/gqs78j",
+      "citations": 0
+    },
+    {
+      "title": "FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly",
+      "authors": "Petras Swissler, Michael Rubenstein",
+      "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "year": "2020",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9341116",
+      "citations": 0
+    },
+    {
+      "title": "FireAnt: A Modular Robot with Full-Body Continuous Docks",
+      "authors": "Petras Swissler, Michael Rubenstein",
+      "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+      "year": "2018",
+      "url": "https://doi.org/gqs2zm",
+      "citations": 0
+    }
+  ]
+}

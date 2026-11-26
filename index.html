@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Swissler Innovative Robotics Lab</title>
+  <meta name="description" content="The Swissler Innovative Robotics Lab at NJIT develops real-world, novel robotic systems, including self-assembling and self-reconfigurable robot swarms.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#introduction" id="brand"></a>
+      <nav aria-label="Sections">
+        <ul id="nav">
+          <li><a href="#introduction">Introduction</a></li>
+          <li><a href="#members">Lab Members</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#research">Research</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="introduction" class="block">
+      <div class="wrap">
+        <h1 id="hero-title"></h1>
+        <div id="intro-text" class="prose"></div>
+        <div id="intro-links" class="buttons"></div>
+        <figure id="intro-image" class="group-photo" hidden></figure>
+        <div id="videos" class="videos"></div>
+        <div id="press-wrap" hidden>
+          <h3>Media and press</h3>
+          <ul id="press" class="press"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="members" class="block alt">
+      <div class="wrap">
+        <h2>Lab Members</h2>
+        <div id="member-grid" class="member-grid"></div>
+        <div id="funders-wrap" hidden>
+          <h3>Funding</h3>
+          <p class="muted">Our work is made possible by funding from:</p>
+          <div id="funders" class="funders"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="block">
+      <div class="wrap">
+        <h2>Contact</h2>
+        <dl id="contact-list" class="contact-list"></dl>
+      </div>
+    </section>
+
+    <section id="research" class="block alt">
+      <div class="wrap">
+        <h2>Research</h2>
+        <p class="muted" id="pub-intro">Publications from our lab members, pulled from Google Scholar.</p>
+        <div class="pub-tools">
+          <input id="pub-search" type="search" placeholder="Filter by title, author, or venue" aria-label="Filter publications">
+          <span id="pub-updated" class="muted"></span>
+        </div>
+        <div id="pubs"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

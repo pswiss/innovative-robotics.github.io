@@ -1,0 +1,27 @@
+type,name,position,photo,scholar,linkedin,text,url
+site,Swissler Innovative Robotics Lab,,logo.svg,,,Making cool robots to solve real-world problems,
+intro,,,,,,"The IRL is an academic research laboratory at NJIT that focuses on developing real-world, novel robotic systems. Key to developing these robots is the question of ""so what."" Why develop robots that are able to build bridges out of their own bodies? Why look at ways that robots can adapt their configuration based on unexpected environments? Ultimately: we want these robots to improve the lives of people across the world. Our work aims to establish a blueprint for how robots can be used to address these real-world issues.",
+intro,,,,,,"If this sounds interesting to you and you'd like to work in this lab, email petras.swissler@njit.edu. The New Jersey Institute of Technology is an R1 public research university located about 30 minutes by train from Manhattan and provides ample opportunities for students to apply themselves and explore robotics.",
+intro,,,,,,"Our focus is the full-stack development of robotic systems. This includes everything from conceptualizing new robot mechanisms, to the building and design of robotic systems, to the development of algorithms that these new robots can use.",
+intro,,,,,,"The lab has a dedicated room full of workbenches, 3D printers, and mechatronics equipment. Swing by ME333K if you want to check it out! The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space.",
+link,Email us,,,,,,mailto:petras.swissler@njit.edu
+link,Lab GitHub,,,,,,https://github.com/innovative-robotics/
+link,Learn about NJIT,,,,,,https://mie.njit.edu/
+link,Lab Knowledge Base,,,,,,https://swissler-innovative-robotics-lab.gitbook.io/lab-onboarding/
+image,,,Group.jpg,,,"Left to right: Postdoc Myungjin Jung, Ph.D. students Roberto Torres and Arman Rashidioun, and Dr. Swissler. We are always welcoming of new students - reach out to one of our members or attend one of our swarm paper discussions.",
+video,Example of our work,,,,,,https://www.youtube.com/embed/Z1dp0QNc9C0
+video,Example of our work,,,,,,https://www.youtube.com/embed/Ln4GuFyTY0k
+press,NJIT Press Release: NJIT with $5M from the NSF Will Develop Robotic System to Speed Disaster Recovery,,,,,NJIT,https://news.njit.edu/njit-5m-nsf-will-develop-robotic-system-speed-disaster-recovery
+press,NSF invests nearly $10M to develop transformative bio-inspired solutions,,,,,NSF,https://new.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-invests-develop-transformative-bio-inspired-solutions
+member,Petras Swissler,Principal Investigator,Petras_Swissler.jpg,https://scholar.google.com/citations?user=-0QxNlEAAAAJ&hl=en,,,
+member,Myungjin Jung,Postdoctoral Scholar,Myungjin_Jung.jpg,https://scholar.google.com/citations?hl=en&user=5XYULe0AAAAJ,,,
+member,Mohammad Katibeh,Postdoctoral Scholar,Mohammad_Katibeh.jpg,https://scholar.google.com/citations?hl=en&user=CaprqOAAAAAJ,,,
+member,Arman Rashidioun,PhD Student,Arman_Rashidioun.jpg,https://scholar.google.com/citations?hl=en&user=bqNlxjwAAAAJ,,,
+member,Roberto Torres,PhD Student,Roberto_Torres.jpg,,,,
+member,Caleb Polillio,Undergraduate Researcher,Calbeb_Polillio.jpg,,,,
+contact,Email,,,,,petras.swissler@njit.edu,mailto:petras.swissler@njit.edu
+contact,Lab,,,,,"ME333K, New Jersey Institute of Technology, Newark, NJ",
+contact,GitHub,,,,,innovative-robotics,https://github.com/innovative-robotics/
+contact,Lab Knowledge Base,,,,,Onboarding and lab documentation,https://swissler-innovative-robotics-lab.gitbook.io/lab-onboarding/
+funder,National Science Foundation,,NSF_Official_logo_High_Res_1200ppi.png,,,,https://www.nsf.gov/
+funder,NJIT,,logo_njit.png,,,,https://njit.edu
